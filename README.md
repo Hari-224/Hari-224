@@ -1,28 +1,29 @@
 # Hariprasath A
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hari-224&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Hari-224?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/Hari-224?affiliations=OWNER&style=flat)
+
 Backend-Focused Full Stack Developer  
-Building secure, scalable, and production-grade systems.
+Designing secure, scalable, and production-grade backend systems.
 
 ---
 
-## Profile
+## About Me
 
-I design and implement high-reliability backend systems with a strong focus on security, transactional integrity, and clean architecture.
+I specialize in building reliable backend systems with strong guarantees around transactional integrity, concurrency safety, and system scalability. My focus is on designing clean architectures and production-ready APIs that maintain consistency under real-world operational load.
 
-- Secure REST API design (JWT, RBAC)
-- Concurrency-safe workflows & ACID-compliant transactions
-- Modular and maintainable backend structures
-- Full-stack application development with production readiness
+Core strengths include secure authentication, ACID-compliant transaction design, REST API architecture, and scalable backend engineering using modern frameworks and cloud platforms.
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend & Mobile
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,49 +43,65 @@ I design and implement high-reliability backend systems with a strong focus on s
 
 ---
 
-## Experience
+## Professional Experience
 
 **Full Stack Developer Intern — Suguna Foods Pvt. Ltd.**  
 May 2025 – July 2025  
 
-Engineered and deployed a multilingual enterprise chatbot in a production environment.  
-Developed 10+ secure REST APIs using Spring Boot with OTP-based authentication workflows.  
-Designed intent classification logic and structured domain-based data systems using MySQL.
+Developed and deployed a production-grade multilingual enterprise chatbot and engineered 10+ secure REST APIs using Spring Boot. Implemented OTP-based authentication workflows and designed structured backend systems using MySQL, ensuring scalability, reliability, and secure data handling in a real-world enterprise environment.
 
 ---
 
-## Systems Built
+## Key Systems Built
 
-### Bus Ticket Booking System
-High-concurrency reservation platform built with React and Spring Boot.  
-Implements secure JWT authentication, strict role isolation, and transaction-safe booking logic to eliminate race conditions and double reservations.
+### Bus Ticket Reservation System
+
+Architected a transaction-safe reservation platform using Spring Boot and React, designed to handle concurrent booking requests without data inconsistency. Implemented ACID-compliant transactional workflows to prevent race conditions and double booking, and secured the system using JWT-based authentication and role-based access control. Developed scalable REST APIs with clean layered architecture, ensuring reliable and production-grade backend performance.
+
+Tech Stack: Spring Boot, Spring Security, React, MySQL
 
 ---
 
 ### Leave Management System
-Structured workflow platform for employee leave approvals.  
-Built using React and Spring Boot with stateless authentication and atomic leave balance updates to ensure data integrity.
+
+Built a secure backend-driven leave management system using Spring Boot, ensuring atomic leave balance updates and strict consistency during concurrent operations. Implemented stateless JWT authentication and modular backend architecture, delivering a scalable and maintainable enterprise-ready system.
+
+Tech Stack: Spring Boot, Spring Security, React, MySQL
 
 ---
 
-### Pharmacy Billing System
-Real-time billing and inventory platform developed with React and Firebase.  
-Uses Firestore for synchronized data management and streamlined invoice processing.
+### Real-Time Pharmacy Billing and Inventory Platform
+
+Developed a real-time billing and inventory system using React and Firebase, ensuring accurate inventory tracking and consistent state management. Leveraged Firestore’s real-time synchronization and structured backend workflows to deliver reliable, scalable, and production-ready system performance.
+
+Tech Stack: React, Firebase, Firestore
 
 ---
 
-### Meal Ordering Management System
-Backend-driven order lifecycle management system built with Node.js, Express, and Firebase Firestore.  
-Designed with clean API separation and scalable request handling.
+### Scalable Meal Ordering Management System
+
+Engineered a scalable RESTful backend using Node.js, Express, and Firestore, designed for reliable order lifecycle management and concurrent request handling. Built modular APIs with clean architecture, ensuring maintainability, scalability, and efficient cloud-based data operations.
+
+Tech Stack: Node.js, Express.js, Firebase, Firestore
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-224&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-224&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariprasath-a-ba72a3299/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Hari-224)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Hari-224/)
 
 ---
 
-Security. Scalability. Clean Architecture.
+Security. Scalability. Reliability. Clean Architecture.
