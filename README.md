@@ -44,8 +44,7 @@ My core expertise includes backend development, REST API design, secure authenti
 **Full Stack Developer Intern — Suguna Foods Pvt. Ltd.**  
 May 2025 – July 2025  
 
-Developed and deployed a multilingual enterprise chatbot and engineered multiple secure REST APIs using Spring Boot. Implemented OTP-based authentication workflows and designed structured backend services using MySQL, ensuring scalable and secure data handling in a real-world enterprise environment.
-
+Developed an enterprise chatbot and built secure REST APIs using Spring Boot. Designed structured backend services with MySQL to support scalable and reliable enterprise-level applications.
 ---
 
 ## Key Systems Built
@@ -79,14 +78,6 @@ Tech Stack: React, Firebase, Firestore
 Developed a cloud-based meal ordering system with structured backend workflows and real-time database integration. Designed modular APIs and efficient order lifecycle management to ensure system reliability and scalability.
 
 Tech Stack: Firebase, Firestore
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-224&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-224&layout=compact&theme=tokyonight)
 
 ---
 
