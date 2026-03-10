@@ -1,8 +1,6 @@
 # Hariprasath A
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hari-224&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Hari-224?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/Hari-224?affiliations=OWNER&style=flat)
 
 Backend-Focused Full Stack Developer  
 Designing secure, scalable, and production-grade backend systems.
@@ -11,9 +9,9 @@ Designing secure, scalable, and production-grade backend systems.
 
 ## About Me
 
-I specialize in building reliable backend systems with strong guarantees around transactional integrity, concurrency safety, and system scalability. My focus is on designing clean architectures and production-ready APIs that maintain consistency under real-world operational load.
+I specialize in building reliable backend systems with strong focus on system consistency, secure authentication, and scalable API architecture. I enjoy designing clean backend architectures and developing production-ready services that can handle real-world operational demands.
 
-Core strengths include secure authentication, ACID-compliant transaction design, REST API architecture, and scalable backend engineering using modern frameworks and cloud platforms.
+My core expertise includes backend development, REST API design, secure authentication systems, and scalable application architecture using modern frameworks and cloud platforms.
 
 ---
 
@@ -33,8 +31,6 @@ Core strengths include secure authentication, ACID-compliant transaction design,
 ### Backend & Cloud
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Databases
@@ -48,7 +44,7 @@ Core strengths include secure authentication, ACID-compliant transaction design,
 **Full Stack Developer Intern — Suguna Foods Pvt. Ltd.**  
 May 2025 – July 2025  
 
-Developed and deployed a production-grade multilingual enterprise chatbot and engineered 10+ secure REST APIs using Spring Boot. Implemented OTP-based authentication workflows and designed structured backend systems using MySQL, ensuring scalability, reliability, and secure data handling in a real-world enterprise environment.
+Developed and deployed a multilingual enterprise chatbot and engineered multiple secure REST APIs using Spring Boot. Implemented OTP-based authentication workflows and designed structured backend services using MySQL, ensuring scalable and secure data handling in a real-world enterprise environment.
 
 ---
 
@@ -56,7 +52,7 @@ Developed and deployed a production-grade multilingual enterprise chatbot and en
 
 ### Bus Ticket Reservation System
 
-Architected a transaction-safe reservation platform using Spring Boot and React, designed to handle concurrent booking requests without data inconsistency. Implemented ACID-compliant transactional workflows to prevent race conditions and double booking, and secured the system using JWT-based authentication and role-based access control. Developed scalable REST APIs with clean layered architecture, ensuring reliable and production-grade backend performance.
+Built a secure ticket reservation platform using Spring Boot and React designed to handle concurrent booking requests reliably. Implemented role-based authentication and developed scalable REST APIs using a clean layered architecture to ensure reliable backend performance.
 
 Tech Stack: Spring Boot, Spring Security, React, MySQL
 
@@ -64,7 +60,7 @@ Tech Stack: Spring Boot, Spring Security, React, MySQL
 
 ### Leave Management System
 
-Built a secure backend-driven leave management system using Spring Boot, ensuring atomic leave balance updates and strict consistency during concurrent operations. Implemented stateless JWT authentication and modular backend architecture, delivering a scalable and maintainable enterprise-ready system.
+Developed a backend-driven leave management system using Spring Boot with secure authentication and structured service architecture. The system ensures consistent leave tracking and efficient management for organizational workflows.
 
 Tech Stack: Spring Boot, Spring Security, React, MySQL
 
@@ -72,7 +68,7 @@ Tech Stack: Spring Boot, Spring Security, React, MySQL
 
 ### Real-Time Pharmacy Billing and Inventory Platform
 
-Developed a real-time billing and inventory system using React and Firebase, ensuring accurate inventory tracking and consistent state management. Leveraged Firestore’s real-time synchronization and structured backend workflows to deliver reliable, scalable, and production-ready system performance.
+Developed a real-time billing and inventory system using React and Firebase to maintain accurate inventory tracking and real-time data synchronization. The platform supports reliable billing workflows and scalable data operations.
 
 Tech Stack: React, Firebase, Firestore
 
@@ -80,9 +76,9 @@ Tech Stack: React, Firebase, Firestore
 
 ### Scalable Meal Ordering Management System
 
-Engineered a scalable RESTful backend using Node.js, Express, and Firestore, designed for reliable order lifecycle management and concurrent request handling. Built modular APIs with clean architecture, ensuring maintainability, scalability, and efficient cloud-based data operations.
+Developed a cloud-based meal ordering system with structured backend workflows and real-time database integration. Designed modular APIs and efficient order lifecycle management to ensure system reliability and scalability.
 
-Tech Stack: Node.js, Express.js, Firebase, Firestore
+Tech Stack: Firebase, Firestore
 
 ---
 
@@ -104,4 +100,4 @@ Tech Stack: Node.js, Express.js, Firebase, Firestore
 
 ---
 
-Security. Scalability. Reliability. Clean Architecture.
+Secure Systems • Scalable APIs • Clean Architecture
