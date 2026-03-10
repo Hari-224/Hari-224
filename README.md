@@ -11,7 +11,7 @@ Designing secure, scalable, and production-grade backend systems.
 
 I specialize in building reliable backend systems with strong focus on system consistency, secure authentication, and scalable API architecture. I enjoy designing clean backend architectures and developing production-ready services that can handle real-world operational demands.
 
-My core expertise includes backend development, REST API design, secure authentication systems, and scalable application architecture using modern frameworks and cloud platforms.
+My core expertise includes backend development, REST API design, and scalable application architecture using modern frameworks and cloud platforms.
 
 ---
 
@@ -44,7 +44,10 @@ My core expertise includes backend development, REST API design, secure authenti
 **Full Stack Developer Intern — Suguna Foods Pvt. Ltd.**  
 May 2025 – July 2025  
 
-Developed an enterprise chatbot and built secure REST APIs using Spring Boot. Designed structured backend services with MySQL to support scalable and reliable enterprise-level applications.
+Developed an enterprise chatbot and built secure REST APIs using Spring Boot.
+
+Designed structured backend services with MySQL to support scalable and reliable enterprise applications.
+
 ---
 
 ## Key Systems Built
